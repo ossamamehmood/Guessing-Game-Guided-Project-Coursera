@@ -1,0 +1,38 @@
+Welcome!
+Welcome to Introduction to Python.
+
+Learning Python gives the programmer a wide variety of career paths to choose from. Python is an open-source (free) programming language that is used in web programming, data science, artificial intelligence, and many scientific applications. Learning Python allows the programmer to focus on solving problems, rather than focusing on syntax. Its relative size and simplified syntax give it an edge over languages like Java and C++, yet the abundance of libraries gives it the power needed to accomplish great things.
+
+In this project you will create a guessing game application that pits the computer against the user. You will create variables, decision constructs, and loops in python to create the game.
+
+Course Objectives
+In this course, we are going to focus on three learning objectives:
+
+Uses of Python
+Python Decisions and Looping.
+Python Functions.
+By the end of this course, you will be able to build an application in Python.
+
+Course Structure
+This course is divided into 4 parts:
+
+Course Overview: This introductory reading material.
+Introduction to Python: This is the hands on project that we will work on in Rhyme.
+Graded Quiz: This is the final assignment that you need to pass in order to finish the course successfully.
+Project Structure
+The hands on project on Introduction to Python is divided into following tasks:
+
+Task 1: Python uses
+Task 2: Python Variables and Input
+Task 3: Python Decision Constructs
+Task 4: Python Looping
+Task 5: Python Functions
+Meet the Instructor
+I'm Dave Dalsveen, welcome to the course! I hope you enjoy working with me on your Python project.
+
+About Rhyme
+This course runs on Coursera's hands-on platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops that have all the software and data you will need. So, you can just focus on the learning. For this project, this means instant access to a cloud desktop with Python, Jupyter, and TensorFlow pre-installed.
+
+If you need help troubleshooting Rhyme, please refer to the Coursera Help Center for more information.
+
+Course Link : - https://www.coursera.org/learn/introduction-to-python
