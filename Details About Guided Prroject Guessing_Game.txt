@@ -1,4 +1,3 @@
-Welcome!
 Welcome to Introduction to Python.
 
 Learning Python gives the programmer a wide variety of career paths to choose from. Python is an open-source (free) programming language that is used in web programming, data science, artificial intelligence, and many scientific applications. Learning Python allows the programmer to focus on solving problems, rather than focusing on syntax. Its relative size and simplified syntax give it an edge over languages like Java and C++, yet the abundance of libraries gives it the power needed to accomplish great things.
